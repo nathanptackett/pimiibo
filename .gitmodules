@@ -1,3 +1,6 @@
 [submodule "amiitool"]
 	path = amiitool
 	url = https://github.com/socram8888/amiitool.git
+[submodule "RPi-RFID"]
+	path = RPi-RFID
+	url = https://github.com/paguz/RPi-RFID
